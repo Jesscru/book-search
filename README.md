@@ -1,7 +1,5 @@
 # book-search
 
-# Jessica's Portfolio 
-
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents 
