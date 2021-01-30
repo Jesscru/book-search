@@ -14,7 +14,11 @@
 
 ## Installation 
 
-No installation necessary. The app can be accessed here: https://mysterious-reaches-98852.herokuapp.com/
+No installation necessary. The app can be accessed here: https://hidden-crag-60606.herokuapp.com/. 
+
+Below is a demo of the app's usage. 
+
+![gif of app being demoed](./client/public/assets/book-search.gif)
 
 ## Usage 
 
@@ -23,6 +27,10 @@ This is a MERN app that serves to find books that are searched for. When the use
 ## Credits:
 
 This app is hosted via [Heroku](https://Heroku.com).
+
+The app is created with [React](https://reactjs.org/).
+
+React routing and [socket.io](http://socket.io) are used to create a notification when the user saves a book. 
 
 The populated books are from the [Google Books API](https://developers.google.com/books).
 
